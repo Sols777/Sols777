@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [www.devbrawl.com](www.devbrawl.com)
+- 👨‍💻 All of my projects are available at [My portfolio](https://river-cornflower-8c5.notion.site/Luis-Torres-Web-application-Developer-d708559c15eb4d3397c76c2913b686b6)
 
 - 📫 How to reach me **luisportelatorres@gmail.com**
 
