@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [www.devbrawl.con](www.devbrawl.con)
+- 👨‍💻 All of my projects are available at [www.devbrawl.com](www.devbrawl.com)
 
 - 📫 How to reach me **luisportelatorres@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/feed/](https://www.linkedin.com/feed/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/luisptorres/](https://www.linkedin.com/in/luisptorres/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
