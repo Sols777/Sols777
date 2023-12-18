@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Luis Torres</h1>
 <h3 align="center">A passionate fullstack/frontend developer from Portugal</h3>
 
