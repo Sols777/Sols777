@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sols777" alt="sols777" /></a> </p>
 
-- 🌱 I’m currently doing a **Data analyst/Python Developer** course at ** Cesae Digital**
+- 🌱 I’m currently doing a **Data analyst/Python Developer** course at **Cesae Digital**
 
 - 👨‍💻 All of my projects are available at [My portfolio](https://river-cornflower-8c5.notion.site/Luis-Torres-Web-application-Developer-d708559c15eb4d3397c76c2913b686b6)
 
